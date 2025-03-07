@@ -1,16 +1,38 @@
-# pharma_connect_app
+# Task Completion Documentation
 
-A new Flutter project.
+## Task Overview
+As discussed, the following task was successfully completed. The task involved developing four key screens and implementing data persistence using Firebase. Only candidates who successfully complete the task as per the requirements will proceed to the interview stage.
 
-## Getting Started
+## Implemented Screens
+1. **Home Page**
+   - Displays the main UI with navigation to other sections.
+   
+2. **Product Details**
+   - Showcases product information with relevant details.
 
-This project is a starting point for a Flutter application.
+3. **Orders**
+   - Lists past and current orders placed by the user.
 
-A few resources to get you started if this is your first Flutter project:
+4. **Edit Profile**
+   - Users can update their profile information and save it to Firebase.
+   - The profile details persist and reload when revisiting the Edit Profile screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features Implemented
+- **Firebase Database Integration**: User profile data is stored and retrieved from Firebase.
+- **Edit Profile Functionality**: Users can update and save their details.
+- **Auto-Population of Data**: When users return to the Edit Profile screen, previously saved data is loaded into the fields.
+- **Navigation & UI Enhancements**: Smooth navigation between the developed screens.
+- **CI/CD Pipeline Integration**: Implemented a CI/CD pipeline using GitHub Actions to automate testing and deployment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technical Stack
+- **Flutter** (UI Development)
+- **Firebase Firestore** (Data Storage)
+- **GetX** (State Management)
+- **GitHub Actions** (CI/CD Pipeline)
+
+## Project Links
+- **APK Download**: [Download APK](https://github.com/sarvajeet23/pharma_connect_app/releases/tag/v1.0.1)
+- **GitHub Repository**: [Project Link](https://github.com/sarvajeet23/pharma_connect_app)
+
+
+
