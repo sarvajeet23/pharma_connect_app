@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722811311943",
+    "project_id": "pharmaconnect-a1856",
+    "storage_bucket": "pharmaconnect-a1856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722811311943:android:494e645f5fd16eb532de62",
+        "android_client_info": {
+          "package_name": "com.example.pharma_connect_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OLwbGhNAfrh9MbJttpwDK-Mkz5x-YX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
